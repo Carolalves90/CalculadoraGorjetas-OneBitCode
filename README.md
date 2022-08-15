@@ -12,4 +12,7 @@ Esta é uma calculadura de gorjetas que utiliza HTML, CSS, JavaScript orientada 
 
 - Aperte o botão para efetuar o calculo.
 
+<p align="center">
 <img src="https://cdn.dribbble.com/users/1971934/screenshots/5455567/ezgif.com-resize.gif" height="180em">
+</p>
+
