@@ -2,6 +2,8 @@
 
 Esta é uma calculadura de gorjetas que utiliza HTML, CSS, JavaScript orientada pelo Professor [Leonardo Scorza](https://github.com/leonardoscorza), através do Minicurso Start na Carreira do [One Bit Code](https://onebitcode.com/lp/)
 
+Para visualizar o site [Acesse aqui.](https://calculadora-de-gotjetas.netlify.app/)
+
 ## :abacus: Como funciona? :abacus:
 
 - Insira o valor total da conta;
